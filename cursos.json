@@ -30,14 +30,14 @@
                 "instructor": "Instructor/a: Ismael Arancibia",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
-                "linkMAT": ""
+                "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/32480_spa.pdf"
             },
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/4.webp",
                 "titulo": "MUJERES DE LAS ESCRITURAS",
                 "horario": "Martes 20:00 hs",
-                "instructor": "Instructor/a: Matrimonio Acosta",
+                "instructor": "Instructor/a: Gabriela y Rubén Acosta",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/women-in-the-scriptures-student-readings?lang=spa"
@@ -48,10 +48,10 @@
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/5.webp",
                 "titulo": "LA CASA DEL SEÑOR     (7 Lecciones)",
                 "horario": "Miércoles 18:00 hs",
-                "instructor": "Instructor/a: Matrimonio Torricella",
+                "instructor": "Instructor/a: Carolina y Cesar Torricella",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
-                "linkMAT": ""
+                "linkMAT": "https://www.churchofjesuschrist.org/study/general-conference/topics/temples?lang=spa"
             },
             {
                 "status": true,
@@ -89,7 +89,7 @@
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/9.webp",
                 "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
                 "horario": "Jueves 20:00 hs",
-                "instructor": "Instructor/a: Matrimonio Gamboa",
+                "instructor": "Instructor/a: Silvana y Walter Gamboa",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
