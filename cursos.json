@@ -25,6 +25,16 @@
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/3.webp",
+                "titulo": "PRESIDENTES DE LA IGLESIA",
+                "horario": "Martes 18:30 hs",
+                "instructor": "Instructor/a: Ismael Arancibia",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": ""
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/4.webp",
                 "titulo": "MUJERES DE LAS ESCRITURAS",
                 "horario": "Martes 20:00 hs",
                 "instructor": "Instructor/a: Matrimonio Acosta",
@@ -35,7 +45,7 @@
 
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/4.webp",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/5.webp",
                 "titulo": "LA CASA DEL SEÑOR     (7 Lecciones)",
                 "horario": "Miércoles 18:00 hs",
                 "instructor": "Instructor/a: Matrimonio Torricella",
@@ -45,23 +55,13 @@
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/5.webp",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/6.webp",
                 "titulo": "PREPARACIÓN MISIONAL",
                 "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: Dana Guibe y Matias Urquía",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/DtezPdIUVbRGixYUxRAJ2T",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/6.webp",
-                "titulo": "DOCTRINA DEL EVANGELIO II",
-                "horario": "Miércoles 20:00 hs",
-                "instructor": "Instructor/a: Ismael Arancibia",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/GNTt6FT8yWTBnDItzg3WkH",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/doctrines-of-the-gospel-part-2-student-readings?lang=spa"
             },
             {
                 "status": true,
