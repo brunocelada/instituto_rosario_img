@@ -9,7 +9,7 @@
                 "horario": "Martes 06 AM",
                 "instructor": "Instructor/a: A confirmar",
                 "modalidad": "Modalidad: Virtual",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/Fb1wyAV8Xqj502vGAGAfUb",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-class-prep-material-2022?lang=spa"
             },
             {
@@ -19,7 +19,7 @@
                 "horario": "Martes 17:00 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
                 "modalidad": "Modalidad: Hibrido",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/HixAcwOPgQUD2ZNWUxvKlt",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
             },
             {
@@ -29,7 +29,7 @@
                 "horario": "Martes 18:30 hs",
                 "instructor": "Instructor/a: Ismael Arancibia",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/JpteJYgwHuXIU1bpkbjneg",
                 "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/32480_spa.pdf"
             },
             {
@@ -39,7 +39,7 @@
                 "horario": "Martes 20:00 hs",
                 "instructor": "Instructor/a: Gabriela y Rubén Acosta",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/BMnqoLmirZG18KjrGY43uk",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/women-in-the-scriptures-student-readings?lang=spa"
             },
 
@@ -50,7 +50,7 @@
                 "horario": "Miércoles 18:00 hs",
                 "instructor": "Instructor/a: Carolina y Cesar Torricella",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/DXgDycpMLyaEhXyZXsIxXz",
                 "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
             },
             {
@@ -70,7 +70,7 @@
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/LXeBwZrNgAZGWlF0fjIasn",
                 "linkMAT": ""
             },
 
@@ -81,17 +81,17 @@
                 "horario": "Jueves 18:00 hs",
                 "instructor": "Instructor/a: Betiana Abonizio",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/EFOHuIbVIfu4mk3oGHWoCB",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-class-prep-material-2022?lang=spa"
             },
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/9.webp",
                 "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
-                "horario": "Jueves 20:00 hs",
+                "horario": "Jueves 19:30 hs",
                 "instructor": "Instructor/a: Silvana y Walter Gamboa",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/HDAtuleZhLIE9E9bQiQUAk",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
             }
         ]
