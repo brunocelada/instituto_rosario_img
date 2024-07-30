@@ -105,7 +105,26 @@
     {
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
-            
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/p1.webp",
+                "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
+                "horario": "Jueves 19:00 hs",
+                "instructor": "Instructor/a: Julia Aguilar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/CXZdmvagVXk877ACh2ZcCK",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/teachings-and-doctrine-of-the-book-of-mormon-class-prep-material-2021?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/p2.webp",
+                "titulo": "SANTOS TOMO 1",
+                "horario": "Viernes 19:00 hs",
+                "instructor": "Instructor/a: Vanesa Leiva",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/BRepUB3JIogKBG0V6Sd10A",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v1?lang=spa"
+            }
         ]
     },
     {
