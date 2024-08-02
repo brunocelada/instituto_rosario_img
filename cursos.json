@@ -99,7 +99,16 @@
     {
         "nombre": "INSTITUTO SAN NICOLÁS",
         "cursos": [
-            
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/sn1.webp",
+                "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSSELL M. NELSON",
+                "horario": "Sábados 17:00 hs",
+                "instructor": "Instructor/a: Abril Salarayan",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-selected-course-outlines/course-390r-nelson?lang=spa"
+            }
         ]
     },
     {
