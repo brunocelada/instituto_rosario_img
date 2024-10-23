@@ -4,6 +4,9 @@ import os
 # Cargar el archivo Excel
 file_path = "C:/Users/brunocelada/OneDrive - Church of Jesus Christ/SEI/Misioneros Región Rosario/Misioneros Región Rosario.xlsx"
 
+# Hojas del Excel para no crear .json
+skip_sheets = ["Dashboard"]
+
 # Obtener la ruta del script actual (donde está este archivo .py)
 script_directory = os.path.dirname(os.path.realpath(__file__))
 
@@ -11,6 +14,9 @@ script_directory = os.path.dirname(os.path.realpath(__file__))
 sheets = pd.read_excel(file_path, sheet_name=None)
 
 for sheet_name, data in sheets.items():
+    if sheet_name in skip_sheets:
+        continue
+
     # Generar el nombre del archivo JSON en el directorio actual
     json_filename = f"{sheet_name.replace(' ', '_')}.json"
     json_path = os.path.join(script_directory, json_filename)
