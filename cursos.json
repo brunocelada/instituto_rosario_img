@@ -7,7 +7,7 @@
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/1.webp",
                 "titulo": "PREDICAD MI EVANGELIO",
                 "horario": "Miércoles 19:00 hs",
-                "instructor": "Instructor/a: Dana Guibe",
+                "instructor": "Instructor/a: Dana Guibe y Alejo Quintana",
                 "modalidad": "Modalidad: Presencial (ECHESORTU)",
                 "linkWSP": "https://chat.whatsapp.com/BmFnITurBFCG8ONNVLfEv5",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
@@ -43,13 +43,51 @@
     {
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
-            
+            {
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/p1.webp",
+                "titulo": "PRESIDENTES DE LA IGLESIA",
+                "horario": "Horario a confirmar",
+                "instructor": "Instructor/a: A confirmar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/32480_spa.pdf"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/p2.webp",
+                "titulo": "PREDICAD MI EVANGELIO",
+                "horario": "Horario a confirmar",
+                "instructor": "Instructor/a: A confirmar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
+            }
         ]
     },
     {
         "nombre": "INSTITUTO VENADO TUERTO",
         "cursos": [
-            
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/vt1.webp",
+                "titulo": "PREDICAD MI EVANGELIO",
+                "horario": "Horario a confirmar - MURPHY",
+                "instructor": "Instructor/a: A confirmar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/vt2.webp",
+                "titulo": "PARÁBOLAS DE JESUCRISTO",
+                "horario": "Miércoles 20:00 - VENADO TUERTO",
+                "instructor": "Instructor/a: Diego Sanchez",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-parables-of-jesus-student-readings?lang=spa"
+            }
         ]
     }
 ]
