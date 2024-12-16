@@ -37,30 +37,49 @@
     {
         "nombre": "INSTITUTO SAN NICOLÁS",
         "cursos": [
-            
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/sn1.webp",
+                "titulo": "",
+                "horario": "",
+                "instructor": "",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": ""
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/sn2.webp",
+                "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
+                "horario": "Sábados 16:30 hs - Villa Constitución",
+                "instructor": "Instructor/a: Carolina Altamirano",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+            }
         ]
     },
     {
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/p1.webp",
                 "titulo": "EL EVANGELIO Y LA VIDA PRODUCTIVA",
-                "horario": "Horario a confirmar",
-                "instructor": "Instructor/a: A confirmar",
+                "horario": "Jueves 19:00 hs",
+                "instructor": "Instructor/a: Fiorella Scalia",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/FZpS0Ruo5CzFQusuYVU7O0",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-gospel-and-the-productive-life-student-manual?lang=spa"
             },
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/p2.webp",
                 "titulo": "PREDICAD MI EVANGELIO",
-                "horario": "Horario a confirmar",
+                "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: A confirmar",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/CyD2jII8w9vHlHj0flsBNo",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
             }
         ]
