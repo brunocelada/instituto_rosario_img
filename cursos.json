@@ -13,7 +13,7 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
             },
             {
-                "status": true,
+                "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/2.webp",
                 "titulo": "DECISIONES PARA LA ETERNIDAD (2 CLASES)",
                 "horario": "Miércoles 20:30 hs",
@@ -25,7 +25,7 @@
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/3.webp",
-                "titulo": "SANTOS 4 (Próximamente...)",
+                "titulo": "SANTOS 4 (Inicia 15-Enero)",
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
                 "modalidad": "Modalidad: Presencial (ECHESORTU)",
