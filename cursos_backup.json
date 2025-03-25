@@ -4,6 +4,39 @@
         "cursos": [
             {
                 "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/1.webp",
+                "titulo": "PREDICAD MI EVANGELIO",
+                "horario": "Miércoles 19:00 hs",
+                "instructor": "Instructor/a: Dana Guibe y Alejo Quintana",
+                "modalidad": "Modalidad: Presencial (ECHESORTU)",
+                "linkWSP": "https://chat.whatsapp.com/BmFnITurBFCG8ONNVLfEv5",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
+            },
+            {
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/2.webp",
+                "titulo": "DECISIONES PARA LA ETERNIDAD (2 CLASES)",
+                "horario": "Miércoles 20:30 hs",
+                "instructor": "Instructor/a: Cesar Torricella",
+                "modalidad": "Modalidad: Presencial (ECHESORTU)",
+                "linkWSP": "https://chat.whatsapp.com/FeLG3rk1lyUJGmMmxazk2Q",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/choices-for-eternity-workshop?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/3.webp",
+                "titulo": "SANTOS 4 (Inicia 15-Enero)",
+                "horario": "Miércoles 20:30 hs",
+                "instructor": "Instructor/a: Cesar Torricella",
+                "modalidad": "Modalidad: Presencial (ECHESORTU)",
+                "linkWSP": "https://chat.whatsapp.com/CgqMUmG7ZC1Dz10U9UilyL",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
+            },
+            
+            
+            
+            {
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/1.webp",
                 "titulo": "LA FAMILIA ETERNA",
                 "horario": "Martes 06 AM",
@@ -377,6 +410,29 @@
         "cursos": [
             {
                 "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/sn1.webp",
+                "titulo": "VIDA Y ENSEÑANZAS DE JESUCRISTO",
+                "horario": "Sábados 18:00 hs",
+                "instructor": "Instructor/a: Adriana Velasquez",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/Gl1fgQWUygN790MOYlUyjl",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/life-and-teachings?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/sn2.webp",
+                "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
+                "horario": "Miércoles 20:00 hs - Villa Constitución",
+                "instructor": "Instructor/a: Carolina Altamirano",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/J9YjciFvQmh5xxstoMSOss",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+            },
+            
+            
+            
+            {
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/sn1.webp",
                 "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
                 "horario": "Sábados 16:30 hs",
@@ -435,6 +491,28 @@
     {
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/p1.webp",
+                "titulo": "EL EVANGELIO Y LA VIDA PRODUCTIVA",
+                "horario": "Jueves 19:00 hs",
+                "instructor": "Instructor/a: Fiorella Scalia",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/FZpS0Ruo5CzFQusuYVU7O0",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-gospel-and-the-productive-life-student-manual?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/p2.webp",
+                "titulo": "PREDICAD MI EVANGELIO",
+                "horario": "Miércoles 19:00 hs",
+                "instructor": "Instructor/a: Tobias Aguilar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/CyD2jII8w9vHlHj0flsBNo",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
+            },
+            
+            
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/p1.webp",
@@ -505,6 +583,28 @@
     {
         "nombre": "INSTITUTO VENADO TUERTO",
         "cursos": [
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/vt1.webp",
+                "titulo": "PREDICAD MI EVANGELIO",
+                "horario": "Domingos 18:00 hs - MURPHY",
+                "instructor": "Instructor/a: Barbara y Sergio Gomez",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025%20-%201P%20Cursos/vt2.webp",
+                "titulo": "PARÁBOLAS DE JESUCRISTO",
+                "horario": "Miércoles 20:00 - VENADO TUERTO",
+                "instructor": "Instructor/a: Diego Sanchez",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-parables-of-jesus-student-readings?lang=spa"
+            },
+            
+            
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/vt1.webp",
