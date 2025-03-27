@@ -168,30 +168,7 @@
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/BRepUB3JIogKBG0V6Sd10A",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v1?lang=spa"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/vt1.webp",
-                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
-                "horario": "Viernes 19:30 hs - Murphy",
-                "instructor": "Instructor/a: Mario Escudero",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/vt2.webp",
-                "titulo": "LA FAMILIA ETERNA",
-                "horario": "Sábados 18:00 hs",
-                "instructor": "Instructor/a: Marisel Capdevila",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-class-prep-material-2022?lang=spa"
-            },
-            
-            
-            
+            },            
             
             
             {
@@ -648,6 +625,28 @@
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
+            },
+            
+            
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/vt1.webp",
+                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
+                "horario": "Viernes 19:30 hs - Murphy",
+                "instructor": "Instructor/a: Mario Escudero",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2024%20-%203%C2%B0P%20Cursos/vt2.webp",
+                "titulo": "LA FAMILIA ETERNA",
+                "horario": "Sábados 18:00 hs",
+                "instructor": "Instructor/a: Marisel Capdevila",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-class-prep-material-2022?lang=spa"
             }
         ]
     }
