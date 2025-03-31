@@ -155,6 +155,16 @@
             {
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/p2.webp",
+                "titulo": "EL DON DIVINO DEL PERDÓN",
+                "horario": "Sábados 09:00 hs - SALTO",
+                "instructor": "Instructor/a: Marina Scalia",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://drive.google.com/file/d/1LRc4_qABQJOGo_a_8Xn_iZeCsVykVhNL/view?usp=sharing"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/p3.webp",
                 "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
                 "horario": "Viernes 19:00 hs",
                 "instructor": "Instructor/a: A confirmar",
