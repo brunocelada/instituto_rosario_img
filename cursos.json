@@ -108,14 +108,14 @@
         "nombre": "INSTITUTO SAN NICOLÁS",
         "cursos": [
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn1.webp",
-                "titulo": "",
-                "horario": "",
-                "instructor": "Instructor/a: A confirmar",
+                "titulo": "SANTOS 4",
+                "horario": "Sábados 17:00 hs",
+                "instructor": "Instructor/a: Abril Salarayan",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": ""
+                "linkWSP": "https://chat.whatsapp.com/GTcN1tBX8px0iyVQWpbZJ2",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
             },
             {
                 "status": false,
