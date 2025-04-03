@@ -118,18 +118,8 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
             },
             {
-                "status": false,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn2.webp",
-                "titulo": "",
-                "horario": "",
-                "instructor": "Instructor/a: A confirmar",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": ""
-            },
-            {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn3.webp",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn2.webp",
                 "titulo": "EL CAMINO A LA CASA DEL SEÑOR         (7 Lecciones)",
                 "horario": "Martes 19:30 hs - VILLA CONSTITUCIÓN",
                 "instructor": "Instructor/a: Carolina Altamirano",
@@ -190,12 +180,12 @@
             {
                 "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/vt2.webp",
-                "titulo": "",
+                "titulo": "SANTOS 4",
                 "horario": "Sábados 19:00 hs - VT",
                 "instructor": "Instructor/a: Marisel Capdevila",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": ""
+                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
             }
         ]
     }
