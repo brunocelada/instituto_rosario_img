@@ -178,10 +178,10 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/principles-of-leadership-student-readings?lang=spa"
             },
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/vt2.webp",
                 "titulo": "SANTOS 4",
-                "horario": "Sábados 19:00 hs - VT",
+                "horario": "Miércoles 20:30 hs - VT",
                 "instructor": "Instructor/a: Marisel Capdevila",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
