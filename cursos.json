@@ -1,5 +1,50 @@
 [
     {
+        "nombre": "CENTRO JAS ROSARIO",
+        "cursos": [
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj1.webp",
+                "titulo": "TALLER DE ACUARELAS",
+                "horario": "Jueves 19:30 hs - Centro Jas Rosario",
+                "instructor": "Instructor/a: Paula Carovana Lee",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": ""
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj2.webp",
+                "titulo": "EDUCACIÓN FINANCIERA",
+                "horario": "Jueves 19:30 hs - Centro Jas Rosario",
+                "instructor": "Instructor/a: Francisco Barraza",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": ""
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj3.webp",
+                "titulo": "EL CAMINO A LA CASA DEL SEÑOR         (7 Lecciones)",
+                "horario": "Inicio a confirmar - Centro Jas Rosario",
+                "instructor": "Instructor/a: A confirmar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj4.webp",
+                "titulo": "LLEVÁ AL SIGUIENTE NIVEL TU CURRICULUM VITAE",
+                "horario": "Inicio a confirmar - Centro Jas Rosario",
+                "instructor": "Instructor/a: Diego Michalek",
+                "modalidad": "Modalidad: Virtual (2 clases)",
+                "linkWSP": "",
+                "linkMAT": ""
+            }
+        ]
+    },
+    {
         "nombre": "INSTITUTO ROSARIO",
         "cursos": [
             {
@@ -96,7 +141,7 @@
                 "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/10.webp",
                 "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
-                "horario": "Sábados 17:00 hs - SAN LORENZO",
+                "horario": "Sábados 11:00 hs - SAN LORENZO",
                 "instructor": "Instructor/a: Carina Herrera",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/J5EitpWtKTyABddVAPapMA",
