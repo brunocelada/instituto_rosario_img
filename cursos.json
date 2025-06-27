@@ -4,6 +4,16 @@
         "cursos": [
             {
                 "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj4.webp",
+                "titulo": "CURRICULUM VITAE, LINKEDIN Y ENTREVISTA LABORAL",
+                "horario": "Jueves 19:00 hs - Centro Jas Rosario",
+                "instructor": "Instructor/a: Lic. Diego Michalek",
+                "modalidad": "Modalidad: Presencial (3 clases)",
+                "linkWSP": "https://chat.whatsapp.com/GaiwJYsPH0x5vNQuw6wsMS?mode=ac_c",
+                "linkMAT": ""
+            },
+            {
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj1.webp",
                 "titulo": "TALLER DE ACUARELAS",
                 "horario": "Jueves 19:30 hs - Centro Jas Rosario",
@@ -31,17 +41,7 @@
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
                 "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj4.webp",
-                "titulo": "CURRICULUM VITAE, LINKEDIN Y ENTREVISTA LABORAL",
-                "horario": "Jueves 19:00 hs - Centro Jas Rosario",
-                "instructor": "Instructor/a: Lic. Diego Michalek",
-                "modalidad": "Modalidad: Presencial (3 clases)",
-                "linkWSP": "https://chat.whatsapp.com/GaiwJYsPH0x5vNQuw6wsMS?mode=ac_c",
-                "linkMAT": ""
-            }
+            }            
         ]
     },
     {
