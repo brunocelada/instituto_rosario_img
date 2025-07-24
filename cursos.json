@@ -1,66 +1,21 @@
 [
     {
-        "nombre": "CENTRO JAS ROSARIO",
-        "cursos": [
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj4.webp",
-                "titulo": "CURRICULUM VITAE, LINKEDIN Y ENTREVISTA LABORAL",
-                "horario": "Jueves 19:00 hs - Centro Jas Rosario",
-                "instructor": "Instructor/a: Lic. Diego Michalek",
-                "modalidad": "Modalidad: Presencial (3 clases)",
-                "linkWSP": "https://chat.whatsapp.com/GaiwJYsPH0x5vNQuw6wsMS?mode=ac_c",
-                "linkMAT": ""
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj1.webp",
-                "titulo": "TALLER DE ACUARELAS",
-                "horario": "Jueves 19:30 hs - Centro Jas Rosario",
-                "instructor": "Instructor/a: Paula Carovana Lee",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": ""
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj2.webp",
-                "titulo": "EDUCACIÓN FINANCIERA",
-                "horario": "Jueves 19:30 hs - Centro Jas Rosario",
-                "instructor": "Instructor/a: Francisco Barraza",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": ""
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/cj3.webp",
-                "titulo": "EL CAMINO A LA CASA DEL SEÑOR         (7 Lecciones)",
-                "horario": "Inicio a confirmar - Centro Jas Rosario",
-                "instructor": "Instructor/a: A confirmar",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
-                "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
-            }            
-        ]
-    },
-    {
         "nombre": "INSTITUTO ROSARIO",
         "cursos": [
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/1.webp",
-                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/1.webp",
+                "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
                 "horario": "Martes 06 AM",
-                "instructor": "Instructor/a: Alma Giacomelli",
+                "instructor": "Instructor/a: Miguel Laurino",
                 "modalidad": "Modalidad: Virtual",
-                "linkWSP": "https://chat.whatsapp.com/I4D53dWE9c2FevlTq40hSq",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/2.webp",
-                "titulo": "VEN, SÍGUEME (Nivel Picante 🌶️)",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/2.webp",
+                "titulo": "VEN, SÍGUEME (Nivel Picante 🌶️🌶️)",
                 "horario": "Martes 17:00 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
                 "modalidad": "Modalidad: Híbrido",
@@ -69,27 +24,27 @@
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/3.webp",
-                "titulo": "ANDUVO HACIENDO BIENES (Ministerio terrenal de Jesucristo)",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/3.webp",
+                "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
                 "horario": "Martes 20:00 hs",
                 "instructor": "Instructor/a: Richard Lee",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/I2Uyu3ZK9ln98x2TgcvR0Z",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/life-and-teachings?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/4.webp",
-                "titulo": "QUIERO SER FELIZ",
-                "horario": "Miércoles 18:00 hs",
-                "instructor": "Instructor/a: Silvana y Walter Gamboa",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/4.webp",
+                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO (PORTUGUÉS)",
+                "horario": "Miércoles 18:30 hs | Conocimiento del Idioma previo",
+                "instructor": "Instructor/a: Aarón Reynoso",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/HlY12Ve5nTLI8lDPF4Rny0",
-                "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Quiero-ser-feliz.pdf"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/5.webp",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/5.webp",
                 "titulo": "PREDICAD MI EVANGELIO",
                 "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: Ana Barraza y Sara Heredia",
@@ -99,38 +54,38 @@
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/6.webp",
-                "titulo": "PREPARACIÓN PARA UN MATRIMONIO ETERNO",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/6.webp",
+                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Carolina Torricella",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/ForENxfrNd8Ewee3DaGLsZ",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/preparing-for-an-eternal-marriage-student-readings?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/7.webp",
-                "titulo": "LA FAMILIA ETERNA",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/7.webp",
+                "titulo": "SOMBRAS DEL SALVADOR: CRISTO EN ISAÍAS",
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/DOBp9jgvZmhC0vJ3qMuoy2",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/the-eternal-family-class-prep-material-2022?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
-                "status": false,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/8.webp",
-                "titulo": "EL LIBRO DE ISAÍAS",
-                "horario": "Jueves 18:30 hs",
-                "instructor": "Instructor/a: Betiana Abonizio",
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/8.webp",
+                "titulo": "EL CAMINO A LA CASA DEL SEÑOR         (7 Lecciones)" ,
+                "horario": "Jueves 19:00 hs",
+                "instructor": "Instructor/a: Francisco Barraza",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/Du2ufmdVnszGx9iBWIxgmi",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-book-of-isaiah-student-readings?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
                 "status": false,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/9.webp",
-                "titulo": "TALLERES",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/9.webp",
+                "titulo": "TALLER RESILIENCIA EMOCIONAL",
                 "horario": "Jueves 19:30 hs",
                 "instructor": "Instructor/a: A confirmar",
                 "modalidad": "Modalidad: Presencial",
@@ -138,14 +93,14 @@
                 "linkMAT": ""
             },
             {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/10.webp",
-                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/10.webp",
+                "titulo": "",
                 "horario": "Sábados 11:00 hs - SAN LORENZO",
                 "instructor": "Instructor/a: Carina Herrera",
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "https://chat.whatsapp.com/J5EitpWtKTyABddVAPapMA",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+                "linkMAT": ""
             }
         ]
     },
@@ -153,8 +108,8 @@
         "nombre": "INSTITUTO SAN NICOLÁS",
         "cursos": [
             {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn1.webp",
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/sn1.webp",
                 "titulo": "SANTOS 4",
                 "horario": "Sábados 18:00 hs",
                 "instructor": "Instructor/a: Abril Salarayan",
@@ -163,24 +118,14 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
             },
             {
-                "status": false,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn2a.webp",
-                "titulo": "EL CAMINO A LA CASA DEL SEÑOR         (7 Lecciones)",
-                "horario": "Martes 19:30 hs - VILLA CONSTITUCIÓN",
-                "instructor": "Instructor/a: Carolina Altamirano",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/EbnaCJROvSe0FOSnKv5A1K",
-                "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
-            },
-            {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/sn2b.webp",
-                "titulo": "LA SENDA DE LOS CONVENIOS         (7 Lecciones)",
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/sn2b.webp",
+                "titulo": "LA FAMILIA ETERNA",
                 "horario": "Jueves 20:00 hs - VILLA CONSTITUCIÓN",
                 "instructor": "Instructor/a: Carolina Altamirano",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/EbnaCJROvSe0FOSnKv5A1K",
-                "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas-La-Senda-de-los-Convenios.pdf"
+                "linkWSP": "",
+                "linkMAT": ""
             }
         ]
     },
@@ -188,34 +133,14 @@
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
             {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/p1.webp",
-                "titulo": "EL DON DIVINO DEL PERDÓN",
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/p1.webp",
+                "titulo": "",
                 "horario": "Jueves 19:00 hs",
                 "instructor": "Instructor/a: Mariel Fusco",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/GBBwCZiHJP04JXKQ6rCzVC",
-                "linkMAT": "https://drive.google.com/file/d/1LRc4_qABQJOGo_a_8Xn_iZeCsVykVhNL/view?usp=sharing"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/p2.webp",
-                "titulo": "EL DON DIVINO DEL PERDÓN",
-                "horario": "Sábados 08:30 hs - SALTO",
-                "instructor": "Instructor/a: Marina Scalia",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/GREeMovkmGzIBDalLnbznP",
-                "linkMAT": "https://drive.google.com/file/d/1LRc4_qABQJOGo_a_8Xn_iZeCsVykVhNL/view?usp=sharing"
-            },
-            {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/p3.webp",
-                "titulo": "JESUCRISTO Y SU EVANGELIO SEMPITERNO",
-                "horario": "Martes 19:30 hs",
-                "instructor": "Instructor/a: Esteban Alvarez",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/EzrlwOlbfMS1EFSKcCJukH",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             }
         ]
     },
@@ -223,24 +148,24 @@
         "nombre": "INSTITUTO VENADO TUERTO",
         "cursos": [
             {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/vt1.webp",
-                "titulo": "PRINCIPIOS DE LIDERAZGO",
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/vt1.webp",
+                "titulo": "",
                 "horario": "Viernes 20:00 hs - MURPHY",
                 "instructor": "Instructor/a: Mario Escudero",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/G2vbh5bKrUmCg8a1znVWdx",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/principles-of-leadership-student-readings?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             },
             {
-                "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-2PCursos/vt2.webp",
-                "titulo": "SANTOS 4",
+                "status": false,
+                "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/vt2.webp",
+                "titulo": "",
                 "horario": "Miércoles 20:30 hs - VT",
                 "instructor": "Instructor/a: Marisel Capdevila",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/Gjjbl1lLjws0V70W3mFziY",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/history/saints-v4?lang=spa"
+                "linkWSP": "",
+                "linkMAT": ""
             }
         ]
     }
