@@ -108,7 +108,7 @@
         "nombre": "INSTITUTO SAN NICOLÁS",
         "cursos": [
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/sn1.webp",
                 "titulo": "LOS MILAGROS DE JESUCRISTO",
                 "horario": "Sábados 18:00 hs",
@@ -118,7 +118,7 @@
                 "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Los_milagros_de_Jesus_Lecturas_Alumno.pdf"
             },
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/sn2.webp",
                 "titulo": "PREDICAD MI EVANGELIO",
                 "horario": "Sábados 18:00 hs",
