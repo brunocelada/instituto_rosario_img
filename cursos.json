@@ -83,13 +83,13 @@
                 "linkMAT": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/Recursos%20y%20Materiales/Lecturas%20El%20camino%20a%20la%20Casa%20del%20Se%C3%B1or.pdf"
             },
             {
-                "status": false,
+                "status": true,
                 "img": "https://raw.githubusercontent.com/brunocelada/instituto_rosario_img/main/2025-3PCursos/9.webp",
-                "titulo": "TALLER RESILIENCIA EMOCIONAL",
-                "horario": "Jueves 19:30 hs",
-                "instructor": "Instructor/a: A confirmar",
+                "titulo": "TALLER DE NUTRICIÓN",
+                "horario": "Jueves 19:00 hs",
+                "instructor": "Instructor/a: Lic. Valeria Trovato",
                 "modalidad": "Modalidad: Presencial",
-                "linkWSP": "",
+                "linkWSP": "https://chat.whatsapp.com/JMnr33JgGIrFfDAStdvzqr",
                 "linkMAT": ""
             },
             {
